@@ -3,6 +3,9 @@
 A minimal set of code snippets for AWS CDK v2 to boost your productivity.
 
 
+[![.github/workflows/azure.yml](https://github.com/sameer2022skipq/cdk-snippets-for-python/actions/workflows/azure.yml/badge.svg)](https://github.com/sameer2022skipq/cdk-snippets-for-python/actions/workflows/azure.yml)
+
+
 ![CDK Snippets for Python Tutorial](./docs/images/tutorial.gif)
 
 ## Catalog
